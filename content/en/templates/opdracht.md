@@ -1,29 +1,6 @@
 ---
 {
-  "title": "SERVICE AGREEMENT FOR SALE",
-  "partijen": "Parties",
-  "opdrachtgever_titel": "Principal(s)",
-  "opdrachtnemer_titel": "Agent (Real Estate Broker)",
-  "label_naam": "Name",
-  "label_adres": "Address",
-  "label_postcode_plaats": "Postcode / City",
-  "label_email": "Email",
-  "label_telefoon": "Phone",
-  "label_legitimatie": "Identification",
-  "label_plaats": "Place",
-  "label_datum": "Date",
-  "label_handtekening": "Signature",
-  "label_adres_object": "Address",
-  "sectie_3_optie_overleg": "in consultation",
-  "sectie_3_optie_datum": "no later than",
-  "sectie_6_courtage_titel": "Brokerage Fee",
-  "sectie_6_courtage_pct": "% including VAT of the final purchase price.",
-  "sectie_6_courtage_of": "or",
-  "sectie_6_courtage_vast": "Fixed amount €",
-  "sectie_6_diensten_titel": "Additional Services",
-  "sectie_6_kolom_dienst": "Service",
-  "sectie_6_kolom_tarief": "Fee",
-  "sectie_6_diensten": [
+  "diensten": [
     { "dienst": "Photography", "tarief": "" },
     { "dienst": "Measurement report", "tarief": "" },
     { "dienst": "Floor plans", "tarief": "" },
@@ -33,12 +10,6 @@
     { "dienst": "Styling", "tarief": "" },
     { "dienst": "Other", "tarief": "" }
   ],
-  "sectie_6_btw": "All amounts include VAT.",
-  "sectie_8_optie_geen": "none",
-  "sectie_8_optie_spec": "as specified below",
-  "ondertekening_opdrachtgever": "Principal",
-  "ondertekening_makelaar": "ViaDjo",
-  "bijlagen_titel": "Annexes",
   "bijlagen": [
     "General Terms and Conditions ViaDjo",
     "10 Steps for Selling",
@@ -48,19 +19,38 @@
 }
 ---
 
+# SERVICE AGREEMENT FOR SALE
+
+## Parties
+
+### Principal(s)
+
+{{opdrachtgever_gegevens}}
+
+### Agent (Real Estate Broker)
+
+{{opdrachtnemer_gegevens}}
+
 ## 1. Assignment
 
 The principal hereby assigns ViaDjo to provide services and mediation for the sale of:
 
+{{adres_object}}
+
 ## 2. Asking Price
 
 The asking price is:
+
+{{vraagprijs}}
 
 > The definitive asking price will be determined when the property is ready for sale and may, if market conditions give reason to do so, be adjusted in consultation before publication.
 
 ## 3. Transfer of Ownership
 
 Delivery by:
+
+- [overleg] in consultation
+- [datum] no later than {{levering_datum}}
 
 ## 4. Scope of Services
 
@@ -85,6 +75,20 @@ During the term of this agreement, the principal shall not undertake any activit
 
 ## 6. Remuneration
 
+### Brokerage Fee
+
+{{courtage_pct}} % including VAT of the final purchase price.
+
+or
+
+Fixed amount € {{courtage_vast}}
+
+### Additional Services
+
+| Service | Fee |
+
+All amounts include VAT.
+
 ## 7. Payment
 
 The principal authorises the notary to pay the brokerage fee and agreed costs directly to ViaDjo upon execution of the deed of transfer. If delivery takes place more than six months after signing the purchase agreement, ViaDjo reserves the right to invoice in the interim.
@@ -92,6 +96,9 @@ The principal authorises the notary to pay the brokerage fee and agreed costs di
 ## 8. Withdrawal of Assignment
 
 In the event of withdrawal of the assignment before sale, only the costs already incurred and agreed upon are due:
+
+- [geen] none
+- [spec] as specified below
 
 ## 9. Obligations of the Principal
 
@@ -121,3 +128,21 @@ The principal declares to have received a copy thereof.
 > Project-specific agreements may be recorded here.
 
 ## 13. Signatures
+
+Place: {{plaats}}    Date: {{datum}}
+
+### Principal
+
+Name: {{naam_opdrachtgever}}
+
+Signature: {{handtekening_opdrachtgever}}
+
+### ViaDjo
+
+Name: {{naam_makelaar}}
+
+Signature: {{handtekening_makelaar}}
+
+## Annexes
+
+{{bijlagen_lijst}}

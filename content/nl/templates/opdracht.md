@@ -1,29 +1,6 @@
 ---
 {
-  "title": "OPDRACHT TOT DIENSTVERLENING BIJ VERKOOP",
-  "partijen": "Partijen",
-  "opdrachtgever_titel": "Opdrachtgever(s)",
-  "opdrachtnemer_titel": "Opdrachtnemer (Makelaar)",
-  "label_naam": "Naam",
-  "label_adres": "Adres",
-  "label_postcode_plaats": "Postcode / Plaats",
-  "label_email": "E-mail",
-  "label_telefoon": "Telefoon",
-  "label_legitimatie": "Legitimatie",
-  "label_plaats": "Plaats",
-  "label_datum": "Datum",
-  "label_handtekening": "Handtekening",
-  "label_adres_object": "Adres",
-  "sectie_3_optie_overleg": "in overleg",
-  "sectie_3_optie_datum": "uiterlijk",
-  "sectie_6_courtage_titel": "Makelaarscourtage",
-  "sectie_6_courtage_pct": "% inclusief btw van de uiteindelijke koopsom.",
-  "sectie_6_courtage_of": "of",
-  "sectie_6_courtage_vast": "Vast bedrag €",
-  "sectie_6_diensten_titel": "Aanvullende diensten",
-  "sectie_6_kolom_dienst": "Dienst",
-  "sectie_6_kolom_tarief": "Tarief",
-  "sectie_6_diensten": [
+  "diensten": [
     { "dienst": "Fotografie", "tarief": "" },
     { "dienst": "Meetrapport", "tarief": "" },
     { "dienst": "Plattegronden", "tarief": "" },
@@ -33,12 +10,6 @@
     { "dienst": "Styling", "tarief": "" },
     { "dienst": "Overige", "tarief": "" }
   ],
-  "sectie_6_btw": "Alle bedragen zijn inclusief btw.",
-  "sectie_8_optie_geen": "geen",
-  "sectie_8_optie_spec": "volgens onderstaande specificatie",
-  "ondertekening_opdrachtgever": "Opdrachtgever",
-  "ondertekening_makelaar": "ViaDjo",
-  "bijlagen_titel": "Bijlagen",
   "bijlagen": [
     "Algemene Voorwaarden ViaDjo",
     "10 stappen bij verkoop",
@@ -48,19 +19,38 @@
 }
 ---
 
+# OPDRACHT TOT DIENSTVERLENING BIJ VERKOOP
+
+## Partijen
+
+### Opdrachtgever(s)
+
+{{opdrachtgever_gegevens}}
+
+### Opdrachtnemer (Makelaar)
+
+{{opdrachtnemer_gegevens}}
+
 ## 1. Opdracht
 
 De opdrachtgever verstrekt aan ViaDjo opdracht tot dienstverlening en bemiddeling bij de verkoop van:
 
+{{adres_object}}
+
 ## 2. Vraagprijs
 
 De vraagprijs bedraagt:
+
+{{vraagprijs}}
 
 > De definitieve vraagprijs wordt bepaald op het moment dat de woning verkoopklaar is en kan, indien marktomstandigheden daartoe aanleiding geven, vóór publicatie in overleg worden aangepast.
 
 ## 3. Eigendomsoverdracht
 
 Levering per:
+
+- [overleg] in overleg
+- [datum] uiterlijk {{levering_datum}}
 
 ## 4. Omvang van de dienstverlening
 
@@ -85,6 +75,20 @@ Gedurende de looptijd van deze overeenkomst zal opdrachtgever geen activiteiten 
 
 ## 6. Vergoeding
 
+### Makelaarscourtage
+
+{{courtage_pct}} % inclusief btw van de uiteindelijke koopsom.
+
+of
+
+Vast bedrag € {{courtage_vast}}
+
+### Aanvullende diensten
+
+| Dienst | Tarief |
+
+Alle bedragen zijn inclusief btw.
+
 ## 7. Betaling
 
 De opdrachtgever machtigt de notaris de courtage en overeengekomen kosten rechtstreeks aan ViaDjo te voldoen bij het passeren van de leveringsakte. Indien levering langer dan zes maanden na ondertekening van de koopovereenkomst plaatsvindt, behoudt ViaDjo zich het recht voor tussentijds te factureren.
@@ -92,6 +96,9 @@ De opdrachtgever machtigt de notaris de courtage en overeengekomen kosten rechts
 ## 8. Intrekking van de opdracht
 
 Bij intrekking van de opdracht vóór verkoop zijn uitsluitend de reeds gemaakte en overeengekomen kosten verschuldigd:
+
+- [geen] geen
+- [spec] volgens onderstaande specificatie
 
 ## 9. Verplichtingen opdrachtgever
 
@@ -121,3 +128,21 @@ De opdrachtgever verklaart hiervan een exemplaar te hebben ontvangen.
 > Hier kunnen projectspecifieke afspraken worden opgenomen.
 
 ## 13. Ondertekening
+
+Plaats: {{plaats}}    Datum: {{datum}}
+
+### Opdrachtgever
+
+Naam: {{naam_opdrachtgever}}
+
+Handtekening: {{handtekening_opdrachtgever}}
+
+### ViaDjo
+
+Naam: {{naam_makelaar}}
+
+Handtekening: {{handtekening_makelaar}}
+
+## Bijlagen
+
+{{bijlagen_lijst}}
