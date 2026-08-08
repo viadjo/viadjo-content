@@ -1,22 +1,32 @@
 ---
-{
-  "diensten": [
-    { "dienst": "Fotografie", "tarief": "" },
-    { "dienst": "Meetrapport", "tarief": "" },
-    { "dienst": "Plattegronden", "tarief": "" },
-    { "dienst": "Funda-publicatie – Brons", "tarief": "€ 279" },
-    { "dienst": "Funda-publicatie – Zilver", "tarief": "€ 449" },
-    { "dienst": "Funda-publicatie – Goud", "tarief": "€ 649" },
-    { "dienst": "Styling", "tarief": "" },
-    { "dienst": "Overige", "tarief": "" }
-  ],
-  "bijlagen": [
-    "Algemene Voorwaarden ViaDjo",
-    "10 stappen bij verkoop",
-    "Vragenlijst verkoop woning",
-    "Lijst van roerende zaken"
-  ]
-}
+language: nl
+vraagprijs: ""
+courtage_pct: ""
+courtage_vast: ""
+levering: overleg
+intrekking: geen
+diensten:
+  - dienst: Fotografie
+    tarief: ""
+  - dienst: Meetrapport
+    tarief: ""
+  - dienst: Plattegronden
+    tarief: ""
+  - dienst: Funda-publicatie – Brons
+    tarief: "€ 279"
+  - dienst: Funda-publicatie – Zilver
+    tarief: "€ 449"
+  - dienst: Funda-publicatie – Goud
+    tarief: "€ 649"
+  - dienst: Styling
+    tarief: ""
+  - dienst: Overige
+    tarief: ""
+bijlagen:
+  - Algemene Voorwaarden ViaDjo
+  - 10 stappen bij verkoop
+  - Vragenlijst verkoop woning
+  - Lijst van roerende zaken
 ---
 
 # OPDRACHT TOT DIENSTVERLENING BIJ VERKOOP
@@ -49,8 +59,8 @@ De vraagprijs bedraagt:
 
 Levering per:
 
-- [overleg] in overleg
-- [datum] uiterlijk {{levering_datum}}
+{{if:overleg}} in overleg {{endif}}
+{{if:datum}} uiterlijk {{levering_datum}} {{endif}}
 
 ## 4. Omvang van de dienstverlening
 
@@ -97,8 +107,8 @@ De opdrachtgever machtigt de notaris de courtage en overeengekomen kosten rechts
 
 Bij intrekking van de opdracht vóór verkoop zijn uitsluitend de reeds gemaakte en overeengekomen kosten verschuldigd:
 
-- [geen] geen
-- [spec] volgens onderstaande specificatie
+{{if:geen}} geen {{endif}}
+{{if:spec}} volgens onderstaande specificatie {{endif}}
 
 ## 9. Verplichtingen opdrachtgever
 

@@ -44,7 +44,7 @@ Frontmatter: `cite`. Body contains the quote text.
 
 ### Templates (`content/{lang}/templates/*.md`)
 
-Legal document templates use markdown with JSON frontmatter. The frontmatter contains only structured data (arrays); all visible text lives in the markdown body.
+Legal document templates use markdown with YAML frontmatter. The frontmatter contains metadata, variable defaults, and structured data (arrays). All visible text lives in the markdown body.
 
 Components use `{{variable}}` for data injection — these indicate where the React component inserts dynamic values (user input, API data, form fields). Don't change the variable names without coordinating with the build script (`src/lib/template-parser.ts` in viadjo-documents).
 
@@ -54,7 +54,7 @@ Format conventions:
 - `## N. Section Title` — numbered legal sections
 - `### Sub-heading` — sub-sections
 - `{{variable_name}}` — dynamic content injection point
-- `- [key] label text` — option/checkbox items
+- `{{if:key}} text {{endif}}` — conditional text block (shown/hidden by component)
 - `| Column1 | Column2 |` — table column headers
 - `Label: {{variable}}` — labeled form fields
 

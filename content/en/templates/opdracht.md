@@ -1,22 +1,32 @@
 ---
-{
-  "diensten": [
-    { "dienst": "Photography", "tarief": "" },
-    { "dienst": "Measurement report", "tarief": "" },
-    { "dienst": "Floor plans", "tarief": "" },
-    { "dienst": "Funda publication – Bronze", "tarief": "€ 279" },
-    { "dienst": "Funda publication – Silver", "tarief": "€ 449" },
-    { "dienst": "Funda publication – Gold", "tarief": "€ 649" },
-    { "dienst": "Styling", "tarief": "" },
-    { "dienst": "Other", "tarief": "" }
-  ],
-  "bijlagen": [
-    "General Terms and Conditions ViaDjo",
-    "10 Steps for Selling",
-    "Property Sale Questionnaire",
-    "List of Movable Assets"
-  ]
-}
+language: en
+vraagprijs: ""
+courtage_pct: ""
+courtage_vast: ""
+levering: overleg
+intrekking: geen
+diensten:
+  - dienst: Photography
+    tarief: ""
+  - dienst: Measurement report
+    tarief: ""
+  - dienst: Floor plans
+    tarief: ""
+  - dienst: Funda publication – Bronze
+    tarief: "€ 279"
+  - dienst: Funda publication – Silver
+    tarief: "€ 449"
+  - dienst: Funda publication – Gold
+    tarief: "€ 649"
+  - dienst: Styling
+    tarief: ""
+  - dienst: Other
+    tarief: ""
+bijlagen:
+  - General Terms and Conditions ViaDjo
+  - 10 Steps for Selling
+  - Property Sale Questionnaire
+  - List of Movable Assets
 ---
 
 # SERVICE AGREEMENT FOR SALE
@@ -49,8 +59,8 @@ The asking price is:
 
 Delivery by:
 
-- [overleg] in consultation
-- [datum] no later than {{levering_datum}}
+{{if:overleg}} in consultation {{endif}}
+{{if:datum}} no later than {{levering_datum}} {{endif}}
 
 ## 4. Scope of Services
 
@@ -97,8 +107,8 @@ The principal authorises the notary to pay the brokerage fee and agreed costs di
 
 In the event of withdrawal of the assignment before sale, only the costs already incurred and agreed upon are due:
 
-- [geen] none
-- [spec] as specified below
+{{if:geen}} none {{endif}}
+{{if:spec}} as specified below {{endif}}
 
 ## 9. Obligations of the Principal
 

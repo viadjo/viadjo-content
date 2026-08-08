@@ -1,11 +1,17 @@
 ---
-{
-  "choice_labels": ["Blijft achter", "Gaat mee", "Kan worden overgenomen", "N.v.t."],
-  "lease_labels": ["Ja", "Nee", "Gaat mee", "Wordt overgenomen door koper"],
-  "lease_title": "Overig",
-  "lease_intro": "Zijn er zaken die geen eigendom zijn van verkoper omdat er sprake is van een leasecontract of huurcontract. Zo ja, neemt verkoper de zaak mee of wordt het betreffende contract overgenomen?",
-  "bijlagen_intro": "Bijlage(n) over te nemen contracten:"
-}
+choice_labels:
+  - Blijft achter
+  - Gaat mee
+  - Kan worden overgenomen
+  - N.v.t.
+lease_labels:
+  - Ja
+  - Nee
+  - Gaat mee
+  - Wordt overgenomen door koper
+lease_title: Overig
+lease_intro: "Zijn er zaken die geen eigendom zijn van verkoper omdat er sprake is van een leasecontract of huurcontract. Zo ja, neemt verkoper de zaak mee of wordt het betreffende contract overgenomen?"
+bijlagen_intro: "Bijlage(n) over te nemen contracten:"
 ---
 
 ## Interieur
