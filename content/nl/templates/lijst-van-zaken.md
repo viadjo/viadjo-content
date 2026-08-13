@@ -139,7 +139,7 @@ bijlagen_intro: "Bijlage(n) over te nemen contracten:"
 - Veiligheidsschakelaar wasautomaat
 - Waterslot wasautomaat
 - Zonnepanelen
-- Oplaadpunt elektrische auto
+- Laadpaal / laadpunt elektrische auto
 - _
 - _
 
