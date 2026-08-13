@@ -113,6 +113,7 @@ bijlagen_intro: "Bijlage(n) over te nemen contracten:"
 - Rookmelders
 - (Klok)thermostaat
 - Airconditioning
+- Infraroodpanelen
 
 ### Warmwatervoorziening, te weten:
 - CV-installatie
