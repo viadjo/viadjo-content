@@ -2,33 +2,38 @@
 title: Wanneer betaal je geen overdrachtsbelasting?
 slug: overdrachtsbelasting
 order: 6
-summary: Situaties waarin je geen overdrachtsbelasting hoeft te betalen.
+summary: Situaties waarin je geen overdrachtsbelasting hoeft te betalen. Bijgewerkt voor 2026.
 ---
 
-**Bijgewerkt voor 2026.** Belastingregels en vrijstellingen kunnen veranderen. Controleer de actuele voorwaarden bij de Belastingdienst.
+Er zijn verschillende situaties waarin geen overdrachtsbelasting verschuldigd is wanneer onroerend goed in Nederland wordt overgedragen.
 
-Er zijn verschillende situaties waarin geen overdrachtsbelasting verschuldigd is bij de overdracht van onroerend goed in Nederland.
+**Update 2026:** De tarieven en de startersvrijstelling hieronder gelden voor 2026. Belastingregels kunnen veranderen; controleer daarom altijd de actuele regels bij de Belastingdienst.
 
 ## Vrijstellingen
 
-- **Erfenis:** Als je onroerend goed van iemand erft, betaal je in beginsel geen overdrachtsbelasting.
+- **Erfenis:** Als je onroerend goed erft, betaal je daarover geen overdrachtsbelasting. Over andere belastingen, zoals erfbelasting, kunnen wel regels gelden.
 
-- **Na echtscheiding:** In bepaalde situaties wordt geen overdrachtsbelasting geheven wanneer je als enige eigenaar wordt van een woning die voorheen gezamenlijk eigendom was.
+- **Scheiding of huwelijk:** In bepaalde situaties is geen overdrachtsbelasting verschuldigd wanneer de eigendom verandert door een scheiding, huwelijk of geregistreerd partnerschap. De voorwaarden hangen af van de omstandigheden.
 
-- **Huwelijk of geregistreerd partnerschap:** Ook bij huwelijk of geregistreerd partnerschap kunnen onder voorwaarden vrijstellingen gelden wanneer je mede-eigenaar wordt van een woning die al eigendom is van je partner.
+- **Nieuwbouw:** Bij de aankoop van een nieuwbouwwoning is doorgaans btw verschuldigd in plaats van overdrachtsbelasting.
 
-- **Nieuwbouw:** Bij de aankoop van een nieuwbouwwoning betaal je doorgaans btw in plaats van overdrachtsbelasting.
+## Startersvrijstelling
 
-### Startersvrijstelling in 2026
+In 2026 kunnen starters gebruikmaken van de startersvrijstelling als zij:
 
-Voor starters op de woningmarkt geldt in 2026 een vrijstelling van overdrachtsbelasting voor een woning met een waarde van maximaal **€555.000**, als aan alle voorwaarden wordt voldaan. De koper moet onder meer 18 jaar of ouder en jonger dan 35 jaar zijn, de vrijstelling niet eerder hebben gebruikt en zelf voor langere tijd in de woning gaan wonen.
+- **18 tot 35 jaar** zijn (tot en met de dag vóór de 35e verjaardag);
+- de woning zelf voor langere tijd als hoofdverblijf gaan gebruiken;
+- de startersvrijstelling niet eerder hebben gebruikt; en
+- de waarde van de woning niet hoger is dan **€555.000**.
 
-Koop je zelf een woning waarin je gaat wonen, maar kom je niet in aanmerking voor de startersvrijstelling, dan geldt in 2026 het tarief van **2%**.
+Als aan alle voorwaarden is voldaan, is het tarief van de overdrachtsbelasting **0%**.
 
-Voor een woning die je niet als hoofdverblijf gebruikt, bijvoorbeeld een woning voor verhuur, een vakantiewoning of een tweede woning, geldt vanaf 2026 een tarief van **8%**.
+## Tarieven overdrachtsbelasting in 2026
 
-Voor andere onroerende zaken, zoals bedrijfspanden en percelen grond, geldt **10,4%**.
+Als de startersvrijstelling niet van toepassing is:
 
-Meer informatie en de actuele voorwaarden vind je op de [website van de Belastingdienst](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/overdrachtsbelasting).
+- **2%** voor een woning waarin de koper zelf voor langere tijd gaat wonen;
+- **8%** voor een woning die niet als hoofdverblijf wordt gebruikt, zoals een verhuurde woning, tweede woning of vakantiewoning;
+- **10,4%** voor andere onroerende zaken, zoals bedrijfspanden en onbebouwde grond.
 
-*Bron: Belastingdienst, geraadpleegd voor 2026.*
+**Officiële bronnen:** [Belastingdienst – Tarieven overdrachtsbelasting](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/) · [Belastingdienst – Startersvrijstelling](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/startersvrijstelling/)
