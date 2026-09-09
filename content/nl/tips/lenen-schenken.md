@@ -5,12 +5,20 @@ order: 3
 summary: Wat je moet weten over lenen en schenken bij de aankoop van een woning.
 ---
 
-Er zijn twee manieren waarop ouders hun kinderen kunnen helpen bij de aankoop van een woning.
+**Bijgewerkt voor 2026.** Belastingregels en vrijstellingen kunnen veranderen. Controleer de actuele voorwaarden bij de Belastingdienst.
+
+Er zijn verschillende manieren waarop ouders hun kinderen financieel kunnen helpen bij de aankoop van een woning.
 
 ## Lenen
 
-Als ouder ontvang je meer rente over de verstrekte lening dan een spaarrekening je geeft. Tegelijkertijd profiteert je kind van een lagere netto rente, omdat ouders een deel belastingvrij kunnen terugschenken, tot maximaal 5.677 euro per jaar.
+Als ouder kun je je kind geld lenen voor de aankoop van een woning. De rente die je ontvangt kan aantrekkelijker zijn dan de rente op een spaarrekening. Voor je kind kan een familielening onderdeel zijn van de financiering van de woning. De fiscale gevolgen en voorwaarden hangen af van de manier waarop de lening wordt ingericht.
 
 ## Schenken
 
-Ouders mogen eenmalig een belastingvrije schenking doen van 106.671 euro aan hun kind. Voorwaarden zijn dat het kind niet ouder mag zijn dan 35 jaar en dat de schenking bestemd moet zijn voor de aankoop van een woning.
+In 2026 mogen ouders hun kind jaarlijks **€6.908** belastingvrij schenken. Daarnaast bestaat er een eenmalig verhoogde vrijstelling voor kinderen tussen 18 en 40 jaar van **€33.129**, als aan de voorwaarden wordt voldaan. Voor een dure studie geldt in 2026 een eenmalig verhoogde vrijstelling van **€69.009**.
+
+De speciale eenmalige vrijstelling voor de aankoop van een eigen woning bestaat sinds 1 januari 2024 niet meer.
+
+Meer informatie en de actuele voorwaarden vind je op de [website van de Belastingdienst](https://www.belastingdienst.nl/wps/wcm/connect/nl/schenken/content/ik-krijg-een-schenking-betaal-ik-schenkbelasting).
+
+*Bron: Belastingdienst, geraadpleegd voor 2026.*
