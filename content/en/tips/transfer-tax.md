@@ -2,29 +2,38 @@
 title: When do you not pay transfer tax?
 slug: transfer-tax
 order: 6
-summary: Situations in which you may be exempt from transfer tax when buying a property in the Netherlands.
+summary: Situations in which you do not have to pay transfer tax in the Netherlands. Updated for 2026.
 ---
 
 There are several situations in which no transfer tax is due when real estate is transferred in the Netherlands.
 
+**2026 update:** The rates and starter exemption below apply to 2026. Tax rules can change, so always check the current rules with the Belastingdienst.
+
 ## Exemptions
 
-- **First-time buyers:** In 2026, buyers aged 18 to 34 may qualify for the first-time buyer exemption when they buy a home they will occupy themselves for the long term, have not used the exemption before, and the value of the home does not exceed **€555,000**. Other conditions also apply.
+- **Inheritance:** If you inherit real estate, you do not pay transfer tax. Other taxes, such as inheritance tax, may still apply.
 
-- **Inheritance:** If you acquire real estate through an inheritance, transfer tax is generally not charged on that acquisition. Other taxes, such as inheritance tax, may apply.
+- **Divorce or marriage:** In certain situations, no transfer tax is due when ownership changes as a result of divorce, marriage or a registered partnership. The exact conditions depend on the circumstances.
 
-- **After divorce:** In certain circumstances, no transfer tax is charged when one former partner becomes the sole owner of a home that was previously jointly owned.
+- **New-build property:** When buying a new-build home, VAT is generally charged instead of transfer tax.
 
-- **Marriage or registered partnership:** In certain circumstances, acquiring an interest in a home through marriage or a registered partnership does not result in transfer tax.
+## Starter exemption
 
-- **New-build property:** The purchase of a new-build home is generally subject to VAT rather than transfer tax, provided the property qualifies as a new-build property for VAT purposes.
+In 2026, first-time buyers can qualify for the transfer-tax starter exemption if they:
 
-## 2026 rates at a glance
+- are aged **18 to under 35**;
+- will use the home as their main residence for a longer period;
+- have not previously used the starter exemption; and
+- the value of the home is no more than **€555,000**.
 
-If an exemption does not apply, the rate depends on how the property will be used:
+If all conditions are met, the transfer tax is **0%**.
 
-- **2%** for a home in which the buyer will live for the long term.
-- **8%** for a home that the buyer will not use as their main residence, such as a rental or second home.
-- **10.4%** for other types of real estate, such as commercial property and certain plots of land.
+## Transfer-tax rates in 2026
 
-The rules and conditions can be complex. Check the current rules with the Dutch Tax Administration or ask your notary or tax adviser before completing a purchase.
+If the starter exemption does not apply:
+
+- **2%** for a home in which the buyer will live for a longer period;
+- **8%** for a home that is not the buyer's main residence, such as a rental, second home or holiday home;
+- **10.4%** for other immovable property, such as commercial buildings and undeveloped land.
+
+**Official sources:** [Belastingdienst – Transfer-tax rates](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/) · [Belastingdienst – Starter exemption](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/startersvrijstelling/)
