@@ -2,23 +2,27 @@
 title: Borrowing or gifting
 slug: borrowing-or-gifting
 order: 3
-summary: What you need to know about borrowing and gifting when parents help their children buy a home.
+summary: What you need to know about borrowing and gifting when buying a home. Updated for 2026.
 ---
 
 There are two common ways in which parents can help their children purchase a home: lending money or making a gift.
 
+**2026 update:** The figures below are the Dutch gift-tax exemptions for 2026. Tax rules can change, so always check the current rules with the Belastingdienst.
+
 ## Borrowing
 
-As a parent, you can lend money to your child. This can provide you with a return on your money, while your child may benefit from financing that is more flexible than a bank loan. The exact tax consequences depend on the terms of the loan and the financial circumstances of both parent and child. A properly documented loan agreement is important.
-
-Parents may also choose to combine a family loan with an annual tax-free gift. In 2026, parents can gift their child **€6,908 per year** tax-free. The parents are treated as one donor for gift-tax purposes, so the amount is not €6,908 per parent.
+As a parent, you can lend money to your child to help finance a home. The tax treatment depends on the terms of the family loan and how the money is used. Have the loan documented properly and ask your adviser or civil-law notary about the applicable conditions.
 
 ## Gifting
 
-In 2026, parents can make a one-time increased tax-free gift of **€33,129** to a child aged 18 to 40, provided the conditions for the increased exemption are met. The child can decide how to spend this amount, so it can also be used towards buying a home.
+In 2026, parents can give their child **€6,908 tax-free per year**. The child can decide how to spend this amount, including using it to buy a home.
 
-There is also a higher one-time exemption of **€69,009** for an expensive study, subject to specific conditions. This is not an additional exemption on top of the €33,129 free-purpose gift.
+Parents can also make a **one-time tax-free gift of up to €33,129** to a child aged 18 to 40, for a freely spendable purpose. This gift may also be used to buy a home. The one-time increased exemption replaces the annual exemption for that year.
 
-The former special tax-free gift for buying a home no longer exists. It was abolished on 1 January 2024. However, the €33,129 increased exemption for a freely determined purpose can still be used for a home, if the conditions are met.
+For an expensive study, a separate one-time increased exemption of **€69,009** applies in 2026, subject to specific conditions.
 
-Tax rules and exemptions can change, so always check the current rules with the Dutch Tax Administration or a tax adviser before making a substantial gift.
+The former one-time increased exemption specifically for buying a home was abolished on 1 January 2024. A freely spendable gift can still be used for a home if the conditions are met.
+
+Parents are treated as one donor for Dutch gift-tax purposes, so gifts from both parents must be added together.
+
+**Official source:** [Belastingdienst – Tax-free gifts in 2026](https://www.belastingdienst.nl/wps/wcm/connect/nl/schenken/content/tot-welk-bedrag-belastingvrij-schenken)
